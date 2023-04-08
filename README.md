@@ -1,2 +1,2 @@
-# eBPF-AIGC
-os_course_proj204
+# Serverless-WASM-AIGC
+os_course_proj202
